@@ -1,0 +1,92 @@
+{
+  "name": "Alkohol",
+  "type": 1,
+  "points": [
+    {
+      "x": 2146.57421875,
+      "y": -1615.0302734375,
+      "z": 389.73281860352,
+      "int": 56,
+      "dim": 152,
+      "minigame": {
+        "game": "boxes",
+        "steps": 3,
+        "point": {
+          "x": 2132.83203125,
+          "y": -1637.330078125,
+          "z": 389.73281860352,
+          "int": 56,
+          "dim": 152
+        },
+        "fail": "spadla ti bedna s alkoholem,ukliď to a žačni znova",
+        "done": "naložil si všechny bedna do auta"
+      },
+      "me": "teď je běž rozvést po městech",
+      "help": "teď se přesun se do Angel Pine na benzínku"
+    },
+    {
+      "x": -2232.4599609375,
+      "y": -2557.0107421875,
+      "z": 31.921875,
+      "int": 0,
+      "dim": 0,
+      "me": "úspěšně si doručil alkohol na benzínku",
+      "help": "teď se přesun do San Fierro na benzínku Juniper Hollow"
+    },
+    {
+      "x": -2418.546875,
+      "y": 970.1162109375,
+      "z": 45.296875,
+      "int": 0,
+      "dim": 0,
+      "me": "úspěšně si doručil alkohol na benzínku",
+      "help": "teď se přesun do Bayside do potravin"
+    },
+    {
+      "x": -2521.0576171875,
+      "y": 2279.9775390625,
+      "z": 4.984375,
+      "int": 0,
+      "dim": 0,
+      "me": "úspěšně si doručil alkohol do potravin",
+      "help": "teď se přesun do Tierra Robada na benzínku"
+    },
+    {
+      "x": -1465.564453125,
+      "y": 1872.0048828125,
+      "z": 32.6328125,
+      "int": 0,
+      "dim": 0,
+      "me": "úspěšně si doručil alkohol na benzínku",
+      "help": "teď se přesun do Fort Carson na benzínku"
+    },
+    {
+      "x": 49.94140625,
+      "y": 1216.0712890625,
+      "z": 18.93318939209,
+      "int": 0,
+      "dim": 0,
+      "me": "úspěšně si doručil alkohol na benzínku",
+      "help": "teď se přesun do Las Venturas na benzínku u banky,je tam parkoviště"
+    },
+    {
+      "x": 2117.7197265625,
+      "y": 898.2138671875,
+      "z": 11.1796875,
+      "int": 0,
+      "dim": 0,
+      "me": "úspěšně si doručil alkohol na benzínku",
+      "help": "teď se přesun zpátky na firmupro zasloženou odměnu"
+    },
+    {
+      "x": 1285.1064453125,
+      "y": -1584.466796875,
+      "z": 13.546875,
+      "int": 0,
+      "dim": 0,
+      "me": "tak tady máš svojí odměnu",
+      "help": "Získáváš [REWARD] jako odměnu!"
+    }
+  ],
+  "reward": 0
+}
